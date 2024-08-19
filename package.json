@@ -2,11 +2,12 @@
   "name": "git-change-tracker",
   "displayName": "Git Change Tracker",
   "description": "Count modified files in branch",
+  "icon": "assets/images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mdrgoncalves/git-change-tracker"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.92.0"
   },
