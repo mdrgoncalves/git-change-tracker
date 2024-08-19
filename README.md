@@ -12,9 +12,8 @@
 
 ### Via Marketplace
 
-1. Acesse o [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/).
-2. Procure por `git-change-tracker`.
-3. Clique em "Install" para adicionar a extensão ao seu VS Code.
+1. Acesse o [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/manage/publishers/mdrgoncalves).
+2. Clique em "Install" para adicionar a extensão ao seu VS Code.
 
 ## Instalação
 
