@@ -1,4 +1,4 @@
-# git-change-tracker
+# Git Change Tracker
 
 ## Descrição
 
@@ -9,6 +9,12 @@
 - Conta o número de arquivos modificados no branch atual.
 - Exibe a contagem de arquivos modificados na barra de status.
 - Aponta se o limite de arquivos modificados está próximo ou foi atingido.
+
+### Via Marketplace
+
+1. Acesse o [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/).
+2. Procure por `git-change-tracker`.
+3. Clique em "Install" para adicionar a extensão ao seu VS Code.
 
 ## Instalação
 
@@ -21,7 +27,7 @@
 
 1. Abra um projeto Git no VS Code.
 2. A contagem de arquivos modificados será exibida na barra de status.
-3. Para executar o comando "Hello World", abra a paleta de comandos (`Ctrl+Shift+P` ou `Cmd+Shift+P` no Mac) e digite `Hello World`.
+3. Para executar o comando "Active", abra a paleta de comandos (`Ctrl+Shift+P` ou `Cmd+Shift+P` no Mac) e digite `Tracker Active`.
 
 ## Comandos
 

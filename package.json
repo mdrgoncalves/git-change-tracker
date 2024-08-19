@@ -20,7 +20,7 @@
     "commands": [
       {
         "command": "git-change-tracker.active",
-        "title": "Extension Active"
+        "title": "Tracker Active"
       }
     ]
   },
